@@ -20,4 +20,5 @@
 % git commit -m "プルリクエストのテスト" 
 
 GitHubで「pull_request_branch」ブランチ作成
+
 % git push origin pull_request_branch
