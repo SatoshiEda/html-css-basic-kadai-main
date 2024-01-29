@@ -1,0 +1,12 @@
+% git config --local user.name "衣田敏"
+% git config --local user.email "engineer.mentor.se@gmail.com"
+
+% git init
+% git add .
+% git commit -m "first commit"
+
+
+
+現在のブランチを確認
+% git status
+
