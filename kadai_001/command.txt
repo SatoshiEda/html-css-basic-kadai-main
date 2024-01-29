@@ -3,10 +3,14 @@
 
 % git init
 % git add .
-% git commit -m "first commit"
+% git commit -m "コミットコメント"
 
-
+% git push -u origin main
 
 現在のブランチを確認
 % git status
 
+
+
+% git checkout main
+% git pull
